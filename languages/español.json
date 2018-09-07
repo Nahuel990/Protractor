@@ -1,0 +1,92 @@
+{
+  "URL":"http://ng-develop-net-develop-whitney.santextest.com",
+  "userName":"POLI/gabi.chaves",
+  "password":"gabi123",
+  "role": "PM Regional",
+  "university": "Siglo21",
+  "commonNavigationButtons":{
+    "createNewProgram": "Crear un Nuevo Programa",
+    "next":"Siguiente",
+    "nextTask": "Siguiente tarea",
+    "finishTask": "Finalizar",
+    "save": "Guardar",
+    "seeCalculationsAndDiagrams": "Ver Cálculos y Gráficos",
+    "yesSend": "Si, enviar",
+    "registerCommitteeEvaluationResults": "Registrar Resultados Evaluación Comité",
+    "close": "Cerrar",
+    "approve":"Aprobar",
+    "yes": "Si",
+    "attach": "Adjuntar"
+  },
+  "marketMap":{
+    "environmentCompleted":"¿Has completado la Fase Entorno? *"
+  },
+  "academicProgramBrief":{
+    "programName":"NameToBeReplaced",
+    "optionsEducation": "Flexible",
+    "optionsModality":"Presencial",
+    "optionsScope":"Internacional",
+    "optionsKnowledge": "Lenguajes",
+    "optionsDuration": "1",
+    "optionsLevel": "ASD",
+    "optionsFacultySchool": "CIENCIAS ADMINISTRATIVAS ECONÓMICAS Y CONTABLES",
+    "optionsPeriod": "Año",
+    "optionsSchedule":"Mañana",
+    "optionsDepartmentState": "'Cordoba - Cordoba Capital - Camino a Pajas Blancas'",
+    "optionsProposal": "'OPORTUNIDAD DE MERCADO'",
+    "optionsOpportunityAnalysis": "'ARTÍCULOS DE PRENSA'",
+    "optionsChallenge": "'REQUISITOS DE DOCENTES'",
+    "optionsPros": "'POCA OFERTA EN EL MERCADO'"
+  },
+  "initialAnalysis":{
+  },
+  "feasibilityAndRelevanceAnalysis":{
+    "optionsMarketResearch": "No",
+    "optionsSalesLeadership": "Alto",
+    "optionsPerceivedBrand": "Medio",
+    "optionsIntensityDirectCompetitor" : "Bajo",
+    "optionsNumberOfPositiveUSP": "Alto",
+    "optionsNumberOfNegativeUSP":"Medio",
+    "optionsDesiredMarketShare":"Bajo"
+  },
+  "initialFinancialAnalysis":{
+
+  },
+  "voteReports":{
+    "results": "Resultados",
+    "approveDecline":"Aprobar/Rechazar"
+  },
+  "committeeMembers":{
+    "URL":"http://ng-develop-net-develop-whitney.santextest.com/",
+    "user1":"ILUMNO/nucera.nahuel",
+    "pass1":"nahuel123",
+    "role": "PM Regional"
+  },
+  "programCreationPlan":{
+    "responsible": "gabriela.chaves@test.com",
+    "activity1": "Prueba"
+  },
+  "internationalProgram":{
+    "userName": "ILUMNO/nucera.nahuel",
+    "password": "nahuel123",
+    "role":"PI Ilumno Regional",
+    "allyFile":{
+      "IPName": "IP0111#01",
+      "proposer": "Test",
+      "ally":"Deloitte",
+      "country1":"Argentina",
+      "country2":"Colombia",
+      "university1": "Siglo21",
+      "university2": "Politécnico GC",
+      "knowledge1": "LENGUAJES",
+      "knowledge2": "TECNICA"
+    },
+    "piMarketMap":{
+      "role":"Responsable PI",
+      "attachFile": "Adjuntar Archivo",
+      "attachLink": "Adjuntar Link",
+      "link": "https://domain.xx",
+      "comment": "Esto es un comentario de prueba"
+    }
+  }
+}

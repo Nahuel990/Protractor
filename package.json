@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "protractor-html-reporter": "latest",
+    "jasmine2-protractor-utils": "latest",
+    "jasmine-reporters": "latest"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "formal": {
+    "a": "./formal_programs/logIn.js",
+    "b": "./formal_programs/marketMap.js",
+    "c": "./formal_programs/academicProgramBrief.js",
+    "d": "./formal_programs/initialAnalysis.js",
+    "committee": "./formal_programs/registerResultsCommitteeEvaluation.js",
+    "f": "./formal_programs/feasibilityAndRelevanceAnalysis.js",
+    "g": "./formal_programs/initialFinancialAnalysis.js",
+    "committee2": "./formal_programs/registerResultsCommitteeEvaluation2.js",
+    "i": "./formal_programs/academicProgramDesign.js",
+    "j": "./formal_programs/finalFinancialAnalysis.js",
+    "k": "./formal_programs/productInformationProposal.js",
+    "committee3": "./formal_programs/registerResultsCommitteeEvaluation3.js",
+    "m": "./formal_programs/programCreationPlan.js",
+    "n": "./formal_programs/programCreationPlanApRe.js",
+    "o": "./formal_programs/programCreationPlanUpdate.js",
+    "p": "./formal_programs/approvalRegulatory.js",
+    "q": "./formal_programs/programCreationPlan.js",
+    "r": "./formal_programs/planCreacionProgramaApRe.js",
+    "s": "./formal_programs/planCreacionProgramaAc.js",
+    "t": "./formal_programs/planImplementacionPrograma.js"
+  },
+  "international": {
+    "a": "./international_programs/ip_logIn.js",
+    "b": "./international_programs/ipAllyFile.js",
+    "c": "./international_programs/ipMarketMap.js",
+    "d": "./international_programs/ipFeasibilityAnalysis.js"
+  }
+}
+
+

@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Atlas" timestamp="2017-11-02T17:38:01" hostname="localhost" time="18.904" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Atlas" name="Get URL" time="4.601" />
+  <testcase classname="Atlas" name="Enters user and password" time="1.167" />
+  <testcase classname="Atlas" name="Select role" time="9.408" />
+  <testcase classname="Atlas" name="Selecciona para editar el programa" time="3.714" />
+ </testsuite>
+ <testsuite name="Market Map" timestamp="2017-11-02T17:38:19" hostname="localhost" time="6.075" errors="0" tests="7" skipped="0" disabled="0" failures="0">
+  <testcase classname="Market Map" name="Have you completed the Environment Phase?" time="2.096" />
+  <testcase classname="Market Map" name="Have you completed the Regulatory Topics Phase?" time="0.551" />
+  <testcase classname="Market Map" name="Have you completed the Market Offering Phase?" time="0.835" />
+  <testcase classname="Market Map" name="Have you completed the Competency Phase?" time="0.586" />
+  <testcase classname="Market Map" name="Have you completed the Employability Phase?" time="0.757" />
+  <testcase classname="Market Map" name="Finalize Market Map" time="0.324" />
+  <testcase classname="Market Map" name="Finalize Task" time="0.923" />
+ </testsuite>
+ <testsuite name="Create Academic Program Brief" timestamp="2017-11-02T17:38:25" hostname="localhost" time="34.566" errors="0" tests="11" skipped="0" disabled="0" failures="0">
+  <testcase classname="Create Academic Program Brief" name="Proposer" time="8.938" />
+  <testcase classname="Create Academic Program Brief" name="Program" time="6.754" />
+  <testcase classname="Create Academic Program Brief" name="Knowledge" time="5.226" />
+  <testcase classname="Create Academic Program Brief" name="Geography" time="2.637" />
+  <testcase classname="Create Academic Program Brief" name="Proposal" time="2.008" />
+  <testcase classname="Create Academic Program Brief" name="Opportunity" time="1.436" />
+  <testcase classname="Create Academic Program Brief" name="Pros" time="1.759" />
+  <testcase classname="Create Academic Program Brief" name="Challenges" time="2.481" />
+  <testcase classname="Create Academic Program Brief" name="Positioning" time="1.781" />
+  <testcase classname="Create Academic Program Brief" name="Files" time="0.004" />
+  <testcase classname="Create Academic Program Brief" name="Finalize Task" time="1.531" />
+ </testsuite>
+ <testsuite name="Create Initial Analysis" timestamp="2017-11-02T17:39:00" hostname="localhost" time="20.33" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Create Initial Analysis" name="Positioning" time="9.81" />
+  <testcase classname="Create Initial Analysis" name="Files" time="0.628" />
+  <testcase classname="Create Initial Analysis" name="Competitive Analysis" time="0.567" />
+  <testcase classname="Create Initial Analysis" name="Summary Analysis" time="1.09" />
+  <testcase classname="Create Initial Analysis" name="Finalize Task" time="8.231" />
+ </testsuite>
+ <testsuite name="Register Results: Committee Evaluation" timestamp="2017-11-02T17:39:20" hostname="localhost" time="34.589" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Register Results: Committee Evaluation" name="Last task completed: Initial Analysis" time="2.551" />
+  <testcase classname="Register Results: Committee Evaluation" name="Vote report" time="15.694" />
+  <testcase classname="Register Results: Committee Evaluation" name="Commitee members" time="0.713" />
+  <testcase classname="Register Results: Committee Evaluation" name="Vote" time="9.695" />
+  <testcase classname="Register Results: Committee Evaluation" name="Restore Session" time="5.933" />
+ </testsuite>
+ <testsuite name="Feasibility and Relevance Analysis" timestamp="2017-11-02T17:39:55" hostname="localhost" time="44.405" errors="0" tests="7" skipped="0" disabled="0" failures="0">
+  <testcase classname="Feasibility and Relevance Analysis" name="Market" time="4.279" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Competitors" time="0.506" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Program Details" time="0.612" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Differential Predefinition for Our Program" time="1.854" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Marketing General Information" time="4.563" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Outputs" time="22.051" />
+  <testcase classname="Feasibility and Relevance Analysis" name="Suggested Price" time="10.537" />
+ </testsuite>
+ <testsuite name="Initial Financial Analysis" timestamp="2017-11-02T17:40:39" hostname="localhost" time="41.766" errors="0" tests="16" skipped="0" disabled="0" failures="0">
+  <testcase classname="Initial Financial Analysis" name="Program Information" time="9.045" />
+  <testcase classname="Initial Financial Analysis" name="Financial Assumption" time="2.654" />
+  <testcase classname="Initial Financial Analysis" name="Projected Inflation" time="0.963" />
+  <testcase classname="Initial Financial Analysis" name="Projected Enrollment Increase" time="0.712" />
+  <testcase classname="Initial Financial Analysis" name="Permanence" time="1.752" />
+  <testcase classname="Initial Financial Analysis" name="Growth New Student" time="8.895" />
+  <testcase classname="Initial Financial Analysis" name="New Projected Student" time="1.573" />
+  <testcase classname="Initial Financial Analysis" name="Academic Support" time="0.763" />
+  <testcase classname="Initial Financial Analysis" name="Professors" time="0.665" />
+  <testcase classname="Initial Financial Analysis" name="Distance Variables" time="1.251" />
+  <testcase classname="Initial Financial Analysis" name="OnCampus and SemiVirtual Variables" time="1.722" />
+  <testcase classname="Initial Financial Analysis" name="SubjectsOnCampus" time="2.544" />
+  <testcase classname="Initial Financial Analysis" name="SubjectsOnLine" time="1.502" />
+  <testcase classname="Initial Financial Analysis" name="Expenses" time="0.903" />
+  <testcase classname="Initial Financial Analysis" name="CAPEX" time="1.833" />
+  <testcase classname="Initial Financial Analysis" name="Finalizar" time="4.979" />
+ </testsuite>
+ <testsuite name="Register Results: Committee Evaluation 2" timestamp="2017-11-02T17:41:21" hostname="localhost" time="32.938" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Register Results: Committee Evaluation 2" name="Last task completed: Initial Analysis" time="2.345" />
+  <testcase classname="Register Results: Committee Evaluation 2" name="Vote report" time="14.547" />
+  <testcase classname="Register Results: Committee Evaluation 2" name="Commitee members" time="0.617" />
+  <testcase classname="Register Results: Committee Evaluation 2" name="Vote" time="9.148" />
+  <testcase classname="Register Results: Committee Evaluation 2" name="Restore Session" time="6.276" />
+ </testsuite>
+ <testsuite name="Academic Program Design" timestamp="2017-11-02T17:41:54" hostname="localhost" time="9.13" errors="0" tests="6" skipped="0" disabled="0" failures="0">
+  <testcase classname="Academic Program Design" name="Information" time="4.235" />
+  <testcase classname="Academic Program Design" name="Subjects" time="1.015" />
+  <testcase classname="Academic Program Design" name="OnCampus and Virtual Subject" time="0.431" />
+  <testcase classname="Academic Program Design" name="Teachers" time="1.169" />
+  <testcase classname="Academic Program Design" name="Investment" time="1.065" />
+  <testcase classname="Academic Program Design" name="Finalize Task" time="1.21" />
+ </testsuite>
+ <testsuite name="Final Financial Analysis" timestamp="2017-11-02T17:42:03" hostname="localhost" time="23.487" errors="0" tests="15" skipped="0" disabled="0" failures="0">
+  <testcase classname="Final Financial Analysis" name="Program Information" time="8.616" />
+  <testcase classname="Final Financial Analysis" name="Financial Assumptions" time="0.808" />
+  <testcase classname="Final Financial Analysis" name="Projected Inflation" time="0.942" />
+  <testcase classname="Final Financial Analysis" name="Projected Enrollment Increase" time="0.602" />
+  <testcase classname="Final Financial Analysis" name="Permanence" time="0.532" />
+  <testcase classname="Final Financial Analysis" name="Growth New Student" time="0.784" />
+  <testcase classname="Final Financial Analysis" name="New Projected Student" time="0.511" />
+  <testcase classname="Final Financial Analysis" name="Academic Support" time="0.782" />
+  <testcase classname="Final Financial Analysis" name="Professors" time="0.522" />
+  <testcase classname="Final Financial Analysis" name="Distance Variables" time="0.99" />
+  <testcase classname="Final Financial Analysis" name="OnCampus and SemiVirtual Variables" time="0.909" />
+  <testcase classname="Final Financial Analysis" name="Subjects" time="0.744" />
+  <testcase classname="Final Financial Analysis" name="Expenses" time="1.175" />
+  <testcase classname="Final Financial Analysis" name="CAPEX" time="1.944" />
+  <testcase classname="Final Financial Analysis" name="Finalizar" time="3.616" />
+ </testsuite>
+ <testsuite name="Product Information Proposal" timestamp="2017-11-02T17:42:27" hostname="localhost" time="12.338" errors="0" tests="7" skipped="0" disabled="0" failures="0">
+  <testcase classname="Product Information Proposal" name="Information" time="6.792" />
+  <testcase classname="Product Information Proposal" name="Justification and Pertinence" time="0.796" />
+  <testcase classname="Product Information Proposal" name="Competitor - Characterisitcs" time="0.508" />
+  <testcase classname="Product Information Proposal" name="Competitor - USP&apos;s" time="0.682" />
+  <testcase classname="Product Information Proposal" name="Competitor - Prices" time="0.583" />
+  <testcase classname="Product Information Proposal" name="Employability Inputs" time="0.512" />
+  <testcase classname="Product Information Proposal" name="Projection to 5 Years" time="2.461" />
+ </testsuite>
+ <testsuite name="Register Results: Committee Evaluation 3" timestamp="2017-11-02T17:42:39" hostname="localhost" time="35.303" errors="0" tests="5" skipped="0" disabled="0" failures="1">
+  <testcase classname="Register Results: Committee Evaluation 3" name="Last task completed: Initial Analysis" time="2.261" />
+  <testcase classname="Register Results: Committee Evaluation 3" name="Vote report" time="16.332">
+   <failure type="exception" message="Failed: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)"><![CDATA[StaleElementReferenceError: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at StaleElementReferenceError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:227:5)
+    at Object.checkLegacyResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:505:15)
+    at parseHttpResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+    at doSend.then.response (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:440:13)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+From: Task: WebElement.click()
+    at thenableWebDriverProxy.schedule (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:816:17)
+    at WebElement.schedule_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1921:25)
+    at WebElement.click (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2002:17)
+    at actionFn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:94:34)
+    at Array.map (native)
+    at actionResults.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:484:67)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at close.isPresent.then.present (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\pomregisterResultsCommitteeEvaluation.js:40:28)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+From: Task: Run it("Vote report") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\registerResultsCommitteeEvaluation3.js:19:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\registerResultsCommitteeEvaluation3.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Register Results: Committee Evaluation 3" name="Commitee members" time="1.473" />
+  <testcase classname="Register Results: Committee Evaluation 3" name="Vote" time="9.352" />
+  <testcase classname="Register Results: Committee Evaluation 3" name="Restore Session" time="5.882" />
+ </testsuite>
+ <testsuite name="Plan de Creacion de Programa" timestamp="2017-11-02T17:43:14" hostname="localhost" time="13.147" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Plan de Creacion de Programa" name="Responsible" time="4.806" />
+  <testcase classname="Plan de Creacion de Programa" name="Activities" time="0.004" />
+  <testcase classname="Plan de Creacion de Programa" name="Fill Activities" time="5.363" />
+  <testcase classname="Plan de Creacion de Programa" name="Finalize" time="2.972" />
+ </testsuite>
+ <testsuite name="Aprobacion Ente Regulador/Aprobador" timestamp="2017-11-02T17:43:28" hostname="localhost" time="8.39" errors="0" tests="3" skipped="0" disabled="0" failures="5">
+  <testcase classname="Aprobacion Ente Regulador/Aprobador" name="Does the University require approval from an External Regulatory Body?" time="2.693">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;requireAuthorization-yes&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="requireAuthorization-yes"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:19:13)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Does the University require approval from an External Regulatory Body?") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:7:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:1:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Aprobacion Ente Regulador/Aprobador" name="Aprobado" time="2.935">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Does the University require approval from an External Regulatory Body?.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Does the University require approval from an External Regulatory Body?.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;programCode&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="programCode"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:44:21)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Aprobado") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:39:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:1:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Aprobacion Ente Regulador/Aprobador" name="Finalizar" time="2.757">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Aprobado.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Aprobado.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: by.buttonText(&quot;Finalizar&quot;)"><![CDATA[NoSuchElementError: No element found using locator: by.buttonText("Finalizar")
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:55:13)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Finalizar") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:54:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\approvalRegulatory.js:1:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+ <testsuite name="Plan de Creacion de Programa - Aprobacion/REchazo" timestamp="2017-11-02T17:43:36" hostname="localhost" time="5.264" errors="0" tests="2" skipped="0" disabled="0" failures="3">
+  <testcase classname="Plan de Creacion de Programa - Aprobacion/REchazo" name="Approval Plan" time="2.576">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;planApproval-yes&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="planApproval-yes"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaApRe.js:7:18)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Approval Plan") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaApRe.js:4:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaApRe.js:1:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Plan de Creacion de Programa - Aprobacion/REchazo" name="NEXT" time="2.68">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Finalizar.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Aprobacion Ente Regulador\Aprobador Finalizar.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Plan de Creacion de Programa - Aprobacion\REchazo Approval Plan.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Plan de Creacion de Programa - Aprobacion\REchazo Approval Plan.png'
+    at Error (native)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+ <testsuite name="Plan de Creacion de Programa - Actualizar" timestamp="2017-11-02T17:43:41" hostname="localhost" time="3.616" errors="0" tests="1" skipped="0" disabled="0" failures="2">
+  <testcase classname="Plan de Creacion de Programa - Actualizar" name="Change State" time="3.612">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;activities-0-status&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="activities-0-status"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaAc.js:8:18)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Change State") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaAc.js:4:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\formal_programs\planCreacionProgramaAc.js:1:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Plan de Creacion de Programa - Aprobacion\REchazo NEXT.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-Plan de Creacion de Programa - Aprobacion\REchazo NEXT.png'
+    at Error (native)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+ <testsuite name="Plan de Implementacion de Programa" timestamp="2017-11-02T17:43:45" hostname="localhost" time="2.593" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Plan de Implementacion de Programa" name="Activities" time="2.591" />
+ </testsuite>
+ <testsuite name="Atlas" timestamp="2017-11-02T17:43:47" hostname="localhost" time="9.934" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="Atlas" name="Get URL" time="1.666" />
+  <testcase classname="Atlas" name="Enters user and password" time="0.744" />
+  <testcase classname="Atlas" name="Select role" time="5.289" />
+  <testcase classname="Atlas" name="Selecciona para editar el programa" time="2.232" />
+ </testsuite>
+ <testsuite name="Ally File" timestamp="2017-11-02T17:43:57" hostname="localhost" time="8.48" errors="0" tests="4" skipped="0" disabled="0" failures="3">
+  <testcase classname="Ally File" name="Basic Program Information" time="5.593">
+   <failure type="exception" message="Failed: No element found using locator: by.cssContainingText(&quot;[class=&apos;ui-select-choices-row-inner&apos;]&quot;, &quot;Argentina&quot;)"><![CDATA[NoSuchElementError: No element found using locator: by.cssContainingText("[class='ui-select-choices-row-inner']", "Argentina")
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at allyFile.selectCountry (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPAllyFile.js:25:29)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:17:25)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Basic Program Information") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:13:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Ally File" name="Justification and Relevance" time="0.756">
+   <failure type="exception" message="Failed: element not visible
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)"><![CDATA[ElementNotVisibleError: element not visible
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at ElementNotVisibleError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:53:5)
+    at Object.checkLegacyResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:505:15)
+    at parseHttpResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+    at doSend.then.response (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:440:13)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+From: Task: WebElement.sendKeys()
+    at thenableWebDriverProxy.schedule (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:816:17)
+    at WebElement.schedule_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1921:25)
+    at WebElement.sendKeys (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2084:19)
+    at actionFn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:94:34)
+    at Array.map (native)
+    at actionResults.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:484:67)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at allyFile.sendProgramJustification (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPAllyFile.js:67:35)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:32:25)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Justification and Relevance") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:31:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="Ally File" name="USP&apos;s" time="1.987" />
+  <testcase classname="Ally File" name="Files" time="0.134">
+   <failure type="exception" message="Failed: No element found using locator: by.buttonText(&quot;Finalizar&quot;)"><![CDATA[NoSuchElementError: No element found using locator: by.buttonText("Finalizar")
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at commonButtons.clickFinisTask (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\commonNavigationButtons.js:15:29)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:40:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Files") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:39:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipAllyFile.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+ <testsuite name="PI Market Map" timestamp="2017-11-02T17:44:06" hostname="localhost" time="4.974" errors="0" tests="7" skipped="0" disabled="0" failures="11">
+  <testcase classname="PI Market Map" name="Login With IP Responsible" time="1.023">
+   <failure type="exception" message="Failed: No element found using locator: By(xpath, //a[contains(.,&apos;Responsable PI&apos;)])"><![CDATA[NoSuchElementError: No element found using locator: By(xpath, //a[contains(.,'Responsable PI')])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at roles.selectRole (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\pomRoles.js:11:85)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:16:18)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Login With IP Responsible") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:14:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Search for Ally File" time="0.752">
+   <failure type="exception" message="Failed: No element found using locator: By(xpath, //div[@class=&apos;form-group vertical-align&apos;]/input)"><![CDATA[NoSuchElementError: No element found using locator: By(xpath, //div[@class='form-group vertical-align']/input)
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:22:20)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+From: Task: Run it("Search for Ally File") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:18:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Have you completed the Environment Phase?" time="0.649">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;bool-environmentCompleted&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="bool-environmentCompleted"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at marketMap.clickEnvironmentPhase (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\pomMarketMap.js:24:31)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:26:23)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Have you completed the Environment Phase?") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:25:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Have you completed the Competency Phase?" time="0.613">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Environment Phase?.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Environment Phase?.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;bool-competencyAnalysisCompleted&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="bool-competencyAnalysisCompleted"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipMarketMap.clickIpCompetencyPhase (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPMarketMap.js:16:32)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:29:25)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Have you completed the Competency Phase?") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:28:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Have you completed the Market Offering Phase?" time="0.618">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Competency Phase?.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Competency Phase?.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;marketOfferingCompleted-no&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="marketOfferingCompleted-no"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as isSelected] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as isSelected] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at marketMap.selectedMarketOfferingPhaseNo (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\pomMarketMap.js:35:42)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:32:23)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Have you completed the Market Offering Phase?") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:31:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Have you completed the Regulatory Topics Phase?" time="0.684">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Market Offering Phase?.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Market Offering Phase?.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;regulatoryAnalysisCompleted-radio-yes&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="regulatoryAnalysisCompleted-radio-yes"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipMarketMap.clickIpRegulatoryTopicsPhaseYes (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPMarketMap.js:13:41)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:39:25)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Have you completed the Regulatory Topics Phase?") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:38:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="PI Market Map" name="Attach a Link" time="0.63">
+   <failure type="exception" message="Error: ENOENT: no such file or directory, open &apos;C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Regulatory Topics Phase?.png&apos;"><![CDATA[Error: ENOENT: no such file or directory, open 'C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\screenshots\chrome-PI Market Map Have you completed the Regulatory Topics Phase?.png'
+    at Error (native)]]>
+   </failure>
+   <failure type="exception" message="Failed: No element found using locator: By(xpath, //a[text()=&apos;Adjuntar Link&apos;])"><![CDATA[NoSuchElementError: No element found using locator: By(xpath, //a[text()='Adjuntar Link'])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipMarketMap.attachLinkOrFile (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPMarketMap.js:21:21)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:45:25)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Attach a Link") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:44:5)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipMarketMap.js:7:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+ </testsuite>
+ <testsuite name="IP Feasibility Analysis" timestamp="2017-11-02T17:44:11" hostname="localhost" time="4.916" errors="0" tests="8" skipped="0" disabled="0" failures="6">
+  <testcase classname="IP Feasibility Analysis" name="Undergraduate Info Mcdo - Univ" time="0.645">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;preFaculty&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="preFaculty"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipFeasibilityAnalysis.selectPreFaculty (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPFeasibilityAnalysis.js:8:22)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:13:34)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Undergraduate Info Mcdo - Univ") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:12:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="Postgraduate Info Mcdo - Univ" time="0.696">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;postFaculty&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="postFaculty"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as click] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipFeasibilityAnalysis.selectPostFaculty (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPFeasibilityAnalysis.js:37:22)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:21:34)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Postgraduate Info Mcdo - Univ") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:20:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="Competition" time="0.707">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;programPrice&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="programPrice"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipFeasibilityAnalysis.sendProgramPrice (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPFeasibilityAnalysis.js:66:27)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:28:35)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Competition") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:27:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="USP&apos;s" time="0.773">
+   <failure type="exception" message="Failed: element not visible
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)"><![CDATA[ElementNotVisibleError: element not visible
+  (Session info: headless chrome=61.0.3163.100)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64)
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at ElementNotVisibleError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:53:5)
+    at Object.checkLegacyResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:505:15)
+    at parseHttpResponse (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:509:13)
+    at doSend.then.response (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\http.js:440:13)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+From: Task: WebElement.sendKeys()
+    at thenableWebDriverProxy.schedule (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:816:17)
+    at WebElement.schedule_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:1921:25)
+    at WebElement.sendKeys (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\webdriver.js:2084:19)
+    at actionFn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:94:34)
+    at Array.map (native)
+    at actionResults.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:484:67)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as sendKeys] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipFeasibilityAnalysis.sendUSP (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPFeasibilityAnalysis.js:73:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:32:35)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("USP's") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:31:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="Marketing Information" time="0.743">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;leads&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="leads"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as clear] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as clear] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at feasibilityAndRelevanceAnalysis.sendLeads (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\pomFeasibilityAndRelevanceAnalysis.js:25:20)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:36:44)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Marketing Information") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:35:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="Projections" time="0.787">
+   <failure type="exception" message="Failed: No element found using locator: By(css selector, *[id=&quot;yearProjections-0-curriculum&quot;])"><![CDATA[NoSuchElementError: No element found using locator: By(css selector, *[id="yearProjections-0-curriculum"])
+    at WebDriverError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:27:5)
+    at NoSuchElementError (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\error.js:168:5)
+    at elementArrayFinder.getWebElements.then (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:851:17)
+    at ManagedPromise.invokeCallback_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1366:14)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+    at TaskQueue.executeNext_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2953:27)
+    at asyncRun (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2813:27)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:676:7
+    at process._tickCallback (internal/process/next_tick.js:103:7)Error
+    at ElementArrayFinder.applyAction_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:482:23)
+    at ElementArrayFinder.(anonymous function) [as clear] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:96:21)
+    at ElementFinder.(anonymous function) [as clear] (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\lib\element.ts:873:14)
+    at ipFeasibilityAnalysis.sendCurriculumMesh (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\POM\IP\pomIPFeasibilityAnalysis.js:96:31)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:48:38)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+    at new ManagedPromise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1067:7)
+    at ControlFlow.promise (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2396:12)
+    at schedulerExecute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+    at TaskQueue.execute_ (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2970:14)
+From: Task: Run it("Projections") in control flow
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:94:19)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at QueueRunner.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3851:10)
+    at Spec.queueRunnerFactory (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:816:35)
+    at Spec.execute (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:473:10)
+    at Object.fn (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4943:37)
+    at attemptAsync (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3914:24)
+    at QueueRunner.run (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3863:9)
+    at C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3894:16
+From asynchronous test: 
+Error
+    at Suite.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:46:4)
+    at addSpecsToSuite (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:994:25)
+    at Env.describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:961:7)
+    at describe (C:\Users\Nahuel Nucera\AppData\Roaming\npm\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:3999:18)
+    at Object.<anonymous> (C:\Users\Nahuel Nucera\WebstormProjects\Protractor\e2e-tests\international_programs\ipFeasibilityAnalysis.js:6:1)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)]]>
+   </failure>
+  </testcase>
+  <testcase classname="IP Feasibility Analysis" name="Prices" time="0.555" />
+  <testcase classname="IP Feasibility Analysis" name="Conclusions" time="0.006" />
+ </testsuite>
+</testsuites>
